@@ -6,7 +6,7 @@
 ## Install
 
 ```
-npm install --save unescape-js
+npm install --save Unescape_JS
 ```
     
 ## Usage
@@ -16,7 +16,7 @@ npm install --save unescape-js
 *  Python-style escape sequences (`\UXXXXXXXX`).
 
 ```js
-var unescapeJs = require('unescape-js');
+var unescapeJs = require('Unescape_JS');
 
 console.log(unescapeJs('Hello,\\nworld!'));
 // Hello,
